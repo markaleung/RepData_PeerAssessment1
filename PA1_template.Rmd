@@ -5,7 +5,7 @@ output:
     keep_md: true
 ---
 
-```{r setoptions, echo=FALSE}
+```{r setoptions}
 library(knitr)
 opts_chunk$set(echo = TRUE)
 options(scipen = 999)

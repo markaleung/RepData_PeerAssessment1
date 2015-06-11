@@ -1,6 +1,12 @@
 # Reproducible Research: Peer Assessment 1
 
 
+```r
+library(knitr)
+opts_chunk$set(echo = TRUE)
+options(scipen = 999)
+library(ggplot2)
+```
 
 ## Loading and preprocessing the data
 
